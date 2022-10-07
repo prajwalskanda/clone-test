@@ -1,0 +1,10 @@
+.topcontainer {
+    background-color: black;
+    margin: 20%;
+    border: 10%;
+    padding: 5%;
+}
+
+.bottomcontainer {
+    background-color: chartreuse;
+}
